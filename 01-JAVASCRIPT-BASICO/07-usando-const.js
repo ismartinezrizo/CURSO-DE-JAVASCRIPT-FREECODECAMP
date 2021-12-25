@@ -1,0 +1,6 @@
+const PI = 3.1416;
+
+// ESTO NO SE PODRIA PORQUE ES UNA CONSTANTE
+PI = 10;
+
+console.log(PI);
